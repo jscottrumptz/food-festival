@@ -1,0 +1,29 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "Week 19 boot camp module",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscottrumptz/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscottrumptz/food-festival/issues"
+  },
+  "homepage": "https://github.com/jscottrumptz/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.31.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  }
+}
